@@ -1,0 +1,1 @@
+(function(d,w,s){var e=d.createElement('script');e.src='/platform/traffic/track.js'+'?p='+w.location.pathname+'&r='+d.referrer+'&c='+s.colorDepth+'&s='+s.width+'x'+s.height+'&'+Number(new Date());e.async=true;d.body.appendChild(e)})(document,window,screen);
